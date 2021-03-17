@@ -1,1 +1,2 @@
 Primer archivo usuario B
+Esto quiero que quede porque es importante para el usuario A.
